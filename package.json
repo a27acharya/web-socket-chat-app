@@ -1,0 +1,15 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "websockets based chat system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashis Acharya",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
